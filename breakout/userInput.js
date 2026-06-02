@@ -1,4 +1,4 @@
-cdfunction keyPressed() {
+function keyPressed() {
     // organized user inputs by gameState
 
     switch (gameState) {
